@@ -5,7 +5,7 @@
 
 
 def print_hi(name):
-    pass
+    print('Hello')
 
 
 # Press the green button in the gutter to run the script.
