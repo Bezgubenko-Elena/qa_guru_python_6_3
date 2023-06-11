@@ -5,7 +5,7 @@
 
 
 def print_hi(name):
-    print(f'Hi, {name}')
+    print(f'Hi, {name}!')
 
 
 # Press the green button in the gutter to run the script.
